@@ -30,7 +30,7 @@ With a strong foundation in engineering and a specialization in **Data Science &
 - **NLP & GenAI:** HuggingFace, LLMs, Embeddings.
 - **Advanced Analysis:** Time Series Analysis, Feature Engineering.
 
-#### ⚙️ Data Engineering & Workflows
+#### 🚀 Data Engineering & Workflows
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
