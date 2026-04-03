@@ -31,13 +31,14 @@ With a strong foundation in engineering and a specialization in **Data Science &
 - **Advanced Analysis:** Time Series Analysis, Feature Engineering.
 
 #### 🚀 Data Engineering & Workflows
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
 
-- **Pipelines:** ETL Concepts, Data Cleaning, Reproducible Workflows.
-- **Deployment:** Streamlit, APIs (FastAPI), VS Code.
+- **Cloud & Pipelines:** Azure Fundamentals, ETL Concepts, Data Cleaning, Reproducible Workflows.
+- **Deployment:** Azure Cloud Services, Streamlit, APIs (FastAPI), VS Code.
 
 #### 📈 Visualization & Reporting
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
